@@ -3,7 +3,7 @@
         Irimold &copy; 2021 - <?= date('Y')?>
     </div>
     <a 
-        href="https://github.com"
+        href="https://github.com/LevineLighto/simple-php-framework"
         class="text-decoration-none"
     >
         Github
